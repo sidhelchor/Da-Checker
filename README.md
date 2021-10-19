@@ -49,7 +49,7 @@ git clone https://github.com/sidhelchor/Da-Checker
 2. Now we will open the "GoMozChecker" folder which got created "after clonning" it in the previous step.. 
 
 ```bash
-cd GoMozChecker
+cd Da-Checker
 ```
 3. Next we need to install the "python modules" which will be required for running the program
 ```bash
