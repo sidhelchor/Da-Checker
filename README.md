@@ -43,7 +43,7 @@
 1. Visit [Google Cloud Shell Editor](https://ssh.cloud.google.com/cloudshell/editor "Open Google Cloud Shell Editor") and then paste the given command in terminal.
 
 ```bash
-git clone http://github.com/anuppushpad/GoMozChecker
+git clone https://github.com/sidhelchor/Da-Checker
 ```
 
 2. Now we will open the "GoMozChecker" folder which got created "after clonning" it in the previous step.. 
